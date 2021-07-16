@@ -1,0 +1,1 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/cf1cc98b-6dfd-42a9-b8b5-a77e4e81f654/deploy-status)](https://app.netlify.com/sites/chopafk/deploys)S

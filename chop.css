@@ -1,0 +1,176 @@
+.armour {
+    background-color: black;
+    color:white;
+    text-align: center;
+    
+}
+
+.nhlogo {
+    width: 550px;
+    height: 550px;
+    border: solid 3px white;
+    border-radius: 50%;
+}
+@font-face {
+    font-family: broklyn;
+    src: url(broklyn.otf);
+}
+
+
+#title {
+   font-size: 60px;
+   font-weight: bolder;
+   font-style: italic;
+   font-family: broklyn;
+
+}
+
+.linkies {
+    font-family: broklyn;
+    font-size: 40px;
+    line-height: 2.0;
+    font-weight: 1000;
+    
+}
+
+a:link {
+    color: cornflowerblue;
+    text-decoration: none;
+   
+}
+
+a:visited {
+    color: darkblue;
+    text-decoration: none;
+}
+
+a:hover {
+    color:cyan;
+    text-decoration: underline;
+}
+
+a:active {
+    color: green;
+    text-decoration:none ;
+}
+
+.watermark { 
+ font-size: medium;
+    font-family: broklyn;
+    font-weight: bolder;
+    font-style: italic;
+    text-align: right;
+  padding-top: 50px;
+}
+
+.community {
+    text-align:center;
+    background-color: black;
+    color: white;
+    font-family: broklyn;
+    
+
+}
+.commulogo {
+    width: 550px;
+    height: 550px;
+
+}
+
+.comtit {
+     font-size: 70px;
+     font-weight: 800;
+     font-style:italic;
+}
+
+.comp {
+    font-size: 40px;
+    font-weight: bolder;
+    word-spacing: 5px;
+    
+}
+
+.discordlink {
+    font-size: 30px;
+    font-size: bold;
+    font-style: italic;
+    font-weight: bolder;
+    line-height: 100px;
+}
+
+.comtit2 {
+    font-size: 70px;
+    font-weight: 800;
+    font-style:italic;
+
+}
+
+.comp2 {
+    font-size: 40px;
+    font-weight: bolder;
+    word-spacing: 5px;
+}
+
+.mclink {
+    font-size: 30px;
+    font-size: bold;
+    font-style: italic;
+    font-weight: bolder;
+    line-height: 100px;
+}
+
+.nclogo {
+    width: 550px;
+    height: 550px;
+}
+
+.goback1 {
+    font-size: 30px;
+    font-size: bold;
+    font-style: italic;
+    font-weight: bolder;
+    line-height: 100px;
+  text-align: left;
+}
+
+.botty {
+    text-align:center;
+    background-color: black;
+    color: white;
+    font-family: broklyn;
+}
+
+.chopimg {
+    width: 550px;
+    height: 550px;
+}
+
+.botit {
+    font-size: 70px;
+    font-weight: 800;
+    font-style:italic;
+}
+
+.botpip {
+    font-size: 40px;
+    font-weight: bolder;
+    word-spacing: 5px;   
+}
+
+.topgg {
+    font-size: 30px;
+    font-size: bold;
+    font-style: italic;
+    font-weight: bolder;
+    line-height: 100px;
+}
+
+.goback2 {
+    font-size: 30px;
+    font-size: bold;
+    font-style: italic;
+    font-weight: bolder;
+    line-height: 100px;
+  text-align: left;
+}
+
